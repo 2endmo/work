@@ -17,10 +17,11 @@ var cnfLinks = {
 var myConfigs = [];
 var ipProviderLink = "https://raw.githubusercontent.com/vfarid/cf-clean-ips/main/list.json";
 var addressList = [
-  "discord.com",
-  "cloudflare.com",
-  "nginx.com",
-  "www.speedtest.com"
+  "ips.cloudips.ir",
+  "hma.cloudy.cloudns.ph",
+  "toptal.com",
+  "networksolutions.com",
+  "cxl.com"
 ];
 var fpList = [
   "chrome",
@@ -36,8 +37,6 @@ var fpList = [
 ];
 var alpnList = [
   "http/1.1",
-  "h2,http/1.1",
-  "h2,http/1.1"
 ];
 var operators = [];
 var cleanIPs = [];
