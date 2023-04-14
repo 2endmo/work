@@ -4,7 +4,7 @@
   * Licensed under GPLv3 (https://github.com/vfarid/v2ray-worker-sub/blob/main/Licence.md)
   */
 
-var maxConfigs = 100;
+var maxConfigs = 123;
 var includeOriginalConfigs = 0;
 var onlyUseMyConfigs = 0;
 var subLinks = {
