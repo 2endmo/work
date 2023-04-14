@@ -12,7 +12,7 @@ var subLinks = {
   mfuu: "https://free.iam7.tk/vmess/sub"
 };
 var cnfLinks = {
-  mahdibland: "https://raw.githubusercont"
+  mahdibland: "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt"
 };
 var myConfigs = [];
 var ipProviderLink = "https://raw.githubusercontent.com/vfarid/cf-clean-ips/main/list.json";
