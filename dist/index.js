@@ -8,11 +8,11 @@ var maxConfigs = 100;
 var includeOriginalConfigs = 0;
 var onlyUseMyConfigs = 0;
 var subLinks = {
-  vpei: "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/node.txt",
-  mfuu: "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray"
+  vpei: "https://raw.githubusercontent.com/Mo-hdb44/fil/main/profiles_clash2.txt",
+  mfuu: "https://free.iam7.tk/vmess/sub"
 };
 var cnfLinks = {
-  mahdibland: "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt"
+  mahdibland: "https://raw.githubusercont"
 };
 var myConfigs = [];
 var ipProviderLink = "https://raw.githubusercontent.com/vfarid/cf-clean-ips/main/list.json";
